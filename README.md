@@ -1,4 +1,4 @@
-# Accessibility Case Study: Designing for Cognitive Accessibility in Enterprise Software
+# Lead with Human Impact: Designing with the Mind in Mind: Cognitive Accessibility in Enterprise Software
 
 **Role:** Staff UX Researcher & Designer  
 **Timeline:** 48-hour Design Hackathon → 6-week Implementation  
