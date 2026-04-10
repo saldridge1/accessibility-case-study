@@ -272,7 +272,10 @@ The following principles informed this case study and serve as a reference for c
 
 If this framework has been useful for your GovCon pursuits, consider buying me a coffee. It helps me keep building open source tools for the design and GovCon community.
 
-☕ [Buy Me a Coffee](https://buymeacoffee.com/teamdesignstudios)
+<a href="https://buymeacoffee.com/teamdesignstudios" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" 
+  alt="Buy Me A Coffee" width="200">
+</a>
 
 ---
 
